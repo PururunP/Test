@@ -4,13 +4,6 @@ public class Test{
        printHello();
     }
     public static void printHello() {
-<<<<<<< HEAD
-    	System.out.println("Hello");
-    	System.out.println();
-    	System.out.println("Hello");
-    	System.out.println("Hello");
-=======
->>>>>>> refs/remotes/origin/main
     	System.out.println("Hello");
     }
 }
